@@ -1,1 +1,1 @@
-# Political-Science-Research-Methods
+SPSS code for Poliical Science Research Methods class.
